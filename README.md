@@ -17,6 +17,10 @@
 <p>. Used ASP.NET Core 6.0 Web API <br/>
    . used SignalR <br/>
    . Swagger UI </p>
+<h3>User Model</h3>
+<h3>Massage Model</h3>
+<p>users string contains "senderId,RecieverId" </p>
+
 <h2>How to run locally</h2>
 <p>. Download and install the .NET Core SDK <br/>. If you don't have localdb available on your system, Download and install SQL Server Express </p>
 
