@@ -2,11 +2,12 @@
 
 <h2>Client (front-end)</h2>
 <p>. Used React.js </p>
-<h3>Login Page></h3>
-<h3>Register Page></h3>
-<h3>Set avatar Page></h3>
-<h3>Home Page></h3>
-<h3>Chat Room></h3>
+<h3>Login Page</h3>
+![login](https://user-images.githubusercontent.com/60642006/190406459-07e18bc2-dff7-4aa2-88a6-d73c8df137eb.png)
+<h3>Register Page</h3>
+<h3>Set avatar Page</h3>
+<h3>Home Page</h3>
+<h3>Chat Room</h3>
 
 
 <h2>Service (back-end) </h2>
