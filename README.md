@@ -1,7 +1,7 @@
 # BSS_Chat
 
-Client (front-end) <br/>
-. React <br/>
+<h3>Client (front-end)</h3> <br/>
+<p>. React </p> <br/>
 
 Service (back-end) <br/>
 . ASP.NET Core 6.0 Web API <br/>
