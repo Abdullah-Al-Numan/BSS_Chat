@@ -2,6 +2,12 @@
 
 <h2>Client (front-end)</h2>
 <p>. Used React.js </p>
+<h3>Login Page></h3>
+<h3>Register Page></h3>
+<h3>Set avatar Page></h3>
+<h3>Home Page></h3>
+<h3>Chat Room></h3>
+
 
 <h2>Service (back-end) </h2>
 <p>. Used ASP.NET Core 6.0 Web API <br/>
