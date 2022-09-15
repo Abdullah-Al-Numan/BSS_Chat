@@ -21,6 +21,7 @@
 <img src="https://user-images.githubusercontent.com/60642006/190418884-cbbbdf5b-6a69-4210-a044-3131c1859a98.png" alt="usermodel" />
 <h3>Massage Model</h3>
 <p>users string contains "senderId,RecieverId" </p>
+<img src="https://user-images.githubusercontent.com/60642006/190420404-8760ec68-8d2e-4595-a9a7-426b57e54c6e.png" alt="Messagemodel" />
 
 <h2>How to run locally</h2>
 <p>. Download and install the .NET Core SDK <br/>. If you don't have localdb available on your system, Download and install SQL Server Express </p>
