@@ -1,13 +1,13 @@
 # BSS_Chat
 
-<h3>Client (front-end)</h3> <br/>
-<p>. Used React.js </p> <br/>
+<h2>Client (front-end)</h2>
+<p>. Used React.js </p>
 
-<h3>Service (back-end) </h3>
+<h2>Service (back-end) </h2>
 <p>. Used ASP.NET Core 6.0 Web API <br/>
    . used SignalR <br/>
    . Swagger UI </p>
-<<h3>How to run locally</h3>
+<h2>How to run locally</h2>
 <p>. Download and install the .NET Core SDK <br/>. If you don't have localdb available on your system, Download and install SQL Server Express </p>
 
 <h3>in BSS_Chat_API folder:</h3>
