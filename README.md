@@ -18,6 +18,7 @@
    . used SignalR <br/>
    . Swagger UI </p>
 <h3>User Model</h3>
+<img src="https://user-images.githubusercontent.com/60642006/190418884-cbbbdf5b-6a69-4210-a044-3131c1859a98.png" alt="usermodel" />
 <h3>Massage Model</h3>
 <p>users string contains "senderId,RecieverId" </p>
 
