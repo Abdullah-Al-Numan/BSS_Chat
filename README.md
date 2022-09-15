@@ -5,6 +5,7 @@
 <h3>Login Page</h3>
 <img src="https://user-images.githubusercontent.com/60642006/190406459-07e18bc2-dff7-4aa2-88a6-d73c8df137eb.png" alt="login" />
 <h3>Register Page</h3>
+<img src="https://user-images.githubusercontent.com/60642006/190408379-e963976e-3775-4bdc-a14a-d1a2a102530b.png" alt="Register" />
 <h3>Set avatar Page</h3>
 <h3>Home Page</h3>
 <h3>Chat Room</h3>
