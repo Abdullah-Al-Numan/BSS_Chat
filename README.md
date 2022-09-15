@@ -8,8 +8,8 @@
 <img src="https://user-images.githubusercontent.com/60642006/190408379-e963976e-3775-4bdc-a14a-d1a2a102530b.png" alt="Register" />
 <h3>Set avatar Page</h3>
 <img src="https://user-images.githubusercontent.com/60642006/190411548-25a3312b-f3b1-4d95-b442-c47ec229138c.png" alt="Avarar" />
-
 <h3>Home Page</h3>
+<img src="https://user-images.githubusercontent.com/60642006/190411896-c58bf54d-fff1-4c08-a4dd-b507e71e9b42.png" alt="Home" />
 <h3>Chat Room</h3>
 
 
